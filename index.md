@@ -1,0 +1,167 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Cheng Dong's Blog</title>
+  <link rel="stylesheet" type="text/css" href="./css/index.css" />
+</head>
+
+<body class="container">
+
+<embed src="./res/Aaron Sprinkle - Giving Up The Gun.mp3" autostart="true" loop="true" width="0" height="0"/>
+  <div>
+    <img src="./image/advertise.jpg" style="width: 100%;height: 120px;">
+    <div class="left">
+      <div>
+        <div class="hd01">
+          <h2>公告</h2>
+          <span class="more">
+            <a href="#">MORE</a>
+          </span>
+        </div>
+        <div class="bd">
+          <ul class="txtListBG">
+            <li>
+              <a href="#">小巧移动固态硬盘轻松造</a>
+            </li>
+            <li>
+              <a href="#">这张显卡竟有多达20相的供电！</a>
+            </li>
+            <li>
+              <a href="#">这个墙角里不起眼的产品也可以...</a>
+            </li>
+            <li>
+              <a href="#">这两款高性能主机了解下...</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div>
+        <div class="hd01">
+          <h2>论坛热帖</h2>
+          <span class="more">
+            <a href="#">MORE</a>
+          </span>
+        </div>
+        <div class="bd">
+          <ul class="txtListBG">
+            <li>
+              <a href="#">这是一款很会“亮”固态硬盘</a>
+            </li>
+            <li>
+              <a href="#">大学限电用不了游戏主机怎么办？</a>
+            </li>
+            <li>
+              <a href="#">全侧透光污染主机，微星Z270平台装机...</a>
+            </li>
+            <li>
+              <a href="#">内存和SSD颗粒贵，但还有...</a>
+            </li>
+            <li>
+              <a href="#">锐龙兼容性好不好?</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div>
+        <div class="hd01">
+          <h2>外设资讯</h2>
+          <span class="more">
+            <a href="#">MORE</a>
+          </span>
+        </div>
+        <div class="bd">
+          <ul class="txtListBG">
+            <li>
+              <a href="#">国内外厂商差距究竟还有多大</a>
+            </li>
+            <li>
+              <a href="#">大片大屏电视都有了 那你还缺什么呢？</a>
+            </li>
+            <li>
+              <a href="#">国产音箱届扛把子，耳机也很强...</a>
+            </li>
+            <li>
+              <a href="#">碉堡了！以后显卡可搭载96GB显存了...</a>
+            </li>
+            <li>
+              <a href="#">四款目前非常热门鼠键推荐</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="right">
+      <div style="overflow: hidden;">
+        <div class='hd02'>
+          <h2>Computer Games</h2>
+        </div>
+        <div>
+          <ul class="productlist">
+            <li>
+              <div class="product">
+                <img src="./image/ltzj.png">
+                <div class="product-desc">
+                  <p style="color: rgb(255, 101, 1);">雷霆战机v1.0</p>
+                  <p>热度 :&nbsp;&nbsp;<span style="color: rgb(255, 101, 1);">844</span></p>
+                  <p>评价 :&nbsp;&nbsp;<span style="color: rgb(19, 88, 155);">★★★★</span></p>
+                  <p>下载次数 :&nbsp;&nbsp;
+                  <span style="color: red;">354</span>
+                  </p>
+                  <a href="./res/ltzj-v1.0.zip" download="ltzj"><p class="dy_btn01" >下载</p></a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="product">
+                <img src="./image/txz.png">
+                <div class="product-desc">
+                  <p style="color: rgb(255, 101, 1);">推箱子v1.0</p>
+                  <p>热度 :&nbsp;&nbsp;<span style="color: rgb(255, 101, 1);">532</span></p>
+                  <p>评价 :&nbsp;&nbsp;<span style="color: rgb(19, 88, 155);">★★★★</span></p>
+                  <p>下载次数 :&nbsp;&nbsp;
+                  <span style="color: red;">312</span>
+                  </p>
+                  <a href="./res/txz-v1.0.zip" download="txz"><p class="dy_btn01" >下载</p></a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="product">
+                <img src="./image/zfy.png">
+                <div class="product-desc">
+                  <p style="color: rgb(255, 101, 1);">字符雨v1.0</p>
+                  <p>热度 :&nbsp;&nbsp;<span style="color: rgb(255, 101, 1);">256</span></p>
+                  <p>评价 :&nbsp;&nbsp;<span style="color: rgb(19, 88, 155);">★★★★</span></p>
+                  <p>下载次数 :&nbsp;&nbsp;
+                  <span style="color: red;">366</span>
+                  </p>
+                  <a href="./res/zfy-v1.0.zip" download="zfy"><p class="dy_btn01" >下载</p></a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="product">
+                <img src="./image/hdlz.png">
+                <div class="product-desc">
+                  <p style="color: rgb(255, 101, 1);">互动粒子v1.0</p>
+                  <p>热度 :&nbsp;&nbsp;<span style="color: rgb(255, 101, 1);">577</span></p>
+                  <p>评价 :&nbsp;&nbsp;<span style="color: rgb(19, 88, 155);">★★★★</span></p>
+                  <p>下载次数 :&nbsp;&nbsp;
+                  <span style="color: red;">458</span>
+                  </p>
+                  <a href="./res/hdlz-v1.0.zip" download="hdlz"><p class="dy_btn01" >下载</p></a>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+  </div>
+</body>
+
+</html>
